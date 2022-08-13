@@ -1,2 +1,2 @@
 # gradient-desc-repo
- Gradient Descent repository
+ Week 2 of AI School: Introduction to Optimization and Gradient Descent algorithm
